@@ -1,4 +1,4 @@
-# Olá, eu sou o Bernardo Cazali! 👋
+# Olá, eu sou o Bernardo Cazali! 
 
 ---
 
@@ -26,6 +26,8 @@ Atualmente, sou estudante do 2º semestre de **Análise e Desenvolvimento de Sis
 
 ---
 
-###
+### 📫 Contacto
 
-http://googleusercontent.com/image_generation_content/8_762
+<a href="https://www.linkedin.com/in/bernardocazali" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
