@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre Mim
 
-Atualmente, sou estudante do 2º semestre de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFSC - Campus Gaspar**. Tenho uma paixão especial por arquitetura de software e desenvolvimento **Backend**. Estou em busca da minha primeira oportunidade de estágio para aplicar meu conhecimento e evoluir como desenvolvedor.
+Técnico em informática e atualmente no 2º semestre de **Análise e Desenvolvimento de Sistemas (ADS)** no IFSC - Campus Gaspar. Curto bastante a parte de **Backend**, entender como a lógica e o banco de dados funcionam por trás dos panos, e estou me preparando para iniciar meu primeiro estágio na área em 2027!
 
 ---
 
