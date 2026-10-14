@@ -26,7 +26,7 @@ Técnico em informática e atualmente no 2º semestre de **Análise e Desenvolvi
 
 ---
 
-### 📫 Contacto
+### 📫 Contato
 
 <a href="https://www.linkedin.com/in/bernardocazali" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
